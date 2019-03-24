@@ -7,8 +7,9 @@ KEY = {
 	6 => 'F',
 	7 => 'G',
 	8 => 'H',
-	9 => '*',
+	9 => 'I',
 	10 => 'J',
+	11 => 'K'
 }
 
 # Define a method that takes an array of numbers to decode.
